@@ -1,22 +1,18 @@
 {
-  "name": "tecg-dcs-2024-2025/screencast",
-  "description": "A small project dedicated to learning server development using PHP",
-  "type": "project",
-  "license": "MIT",
-  "autoload": {
-    "psr-4": {
-      "Tecgdcs\\": "core/",
-      "Animal\\": "app/"
-    }
-  },
-  "authors": [
-    {
-      "name": "Dominique Vilain",
-      "email": "dominique.vilain@hepl.be"
-    }
-  ],
-  "require": {
-    "php": "8.3",
-    "laravel/pint": "^1.21"
-  }
+    "name": "tecgdcs/screencast",
+    "description": "smaill description",
+    "type": "projet",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tecgdcs\\Screencast\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "benahmed-ayman",
+            "email": "ayman.benahmed@student.hepl.be"
+        }
+    ],
+    "require": {}
 }
